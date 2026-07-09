@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/srivarshni7/leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
