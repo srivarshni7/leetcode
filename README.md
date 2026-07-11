@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivarshni7/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
 | [0260-single-number-iii](https://github.com/srivarshni7/leetcode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/srivarshni7/leetcode/tree/master/0414-third-maximum-number) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
 | [0414-third-maximum-number](https://github.com/srivarshni7/leetcode/tree/master/0414-third-maximum-number) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/srivarshni7/leetcode/tree/master/0260-single-number-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
