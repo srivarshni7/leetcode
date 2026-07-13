@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
 <!---LeetCode Topics End-->
