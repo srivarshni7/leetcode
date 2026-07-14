@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/srivarshni7/leetcode/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/srivarshni7/leetcode/tree/master/0414-third-maximum-number) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 ## Sorting
