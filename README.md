@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivarshni7/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/srivarshni7/leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
