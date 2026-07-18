@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
 ## Linked List
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
