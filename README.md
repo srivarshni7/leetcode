@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivarshni7/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/srivarshni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/srivarshni7/leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
 | [0260-single-number-iii](https://github.com/srivarshni7/leetcode/tree/master/0260-single-number-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/srivarshni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srivarshni7/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/srivarshni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
