@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/srivarshni7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [3536-maximum-product-of-two-digits](https://github.com/srivarshni7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
