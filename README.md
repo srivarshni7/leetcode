@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/srivarshni7/leetcode/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivarshni7/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/srivarshni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/srivarshni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/srivarshni7/leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/srivarshni7/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/srivarshni7/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/srivarshni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/srivarshni7/leetcode/tree/master/0414-third-maximum-number) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/srivarshni7/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivarshni7/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/srivarshni7/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/srivarshni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srivarshni7/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
