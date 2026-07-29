@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/srivarshni7/leetcode/tree/master/0155-min-stack) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/srivarshni7/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/srivarshni7/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
