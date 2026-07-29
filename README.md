@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/srivarshni7/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivarshni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0551-student-attendance-record-i](https://github.com/srivarshni7/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/srivarshni7/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/srivarshni7/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/srivarshni7/leetcode/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/srivarshni7/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/srivarshni7/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
