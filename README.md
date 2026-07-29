@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/srivarshni7/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/srivarshni7/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/srivarshni7/leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/srivarshni7/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/srivarshni7/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/srivarshni7/leetcode/tree/master/0547-number-of-provinces) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/srivarshni7/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
