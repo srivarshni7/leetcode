@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/srivarshni7/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1436-destination-city](https://github.com/srivarshni7/leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 ## Sorting
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivarshni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/srivarshni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1436-destination-city](https://github.com/srivarshni7/leetcode/tree/master/1436-destination-city) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/srivarshni7/leetcode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/srivarshni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0551-student-attendance-record-i](https://github.com/srivarshni7/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
+| [1436-destination-city](https://github.com/srivarshni7/leetcode/tree/master/1436-destination-city) |
 | [3271-hash-divided-string](https://github.com/srivarshni7/leetcode/tree/master/3271-hash-divided-string) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
 ## Linked List
