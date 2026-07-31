@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/srivarshni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/srivarshni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/srivarshni7/leetcode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/srivarshni7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivarshni7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3945-digit-frequency-score](https://github.com/srivarshni7/leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
