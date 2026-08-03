@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/srivarshni7/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/srivarshni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srivarshni7/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0392-is-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/srivarshni7/leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/srivarshni7/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivarshni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/srivarshni7/leetcode/tree/master/0706-design-hashmap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
