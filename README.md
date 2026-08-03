@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/srivarshni7/leetcode/tree/master/0415-add-strings) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/srivarshni7/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/srivarshni7/leetcode/tree/master/3271-hash-divided-string) |
 ## Database
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/srivarshni7/leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivarshni7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/srivarshni7/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivarshni7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/srivarshni7/leetcode/tree/master/3945-digit-frequency-score) |
