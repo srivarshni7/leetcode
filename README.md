@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/srivarshni7/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/srivarshni7/leetcode/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivarshni7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3945-digit-frequency-score](https://github.com/srivarshni7/leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
