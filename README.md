@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/srivarshni7/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/srivarshni7/leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/srivarshni7/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/srivarshni7/leetcode/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivarshni7/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srivarshni7/leetcode/tree/master/0088-merge-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/srivarshni7/leetcode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/srivarshni7/leetcode/tree/master/0415-add-strings) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/srivarshni7/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/srivarshni7/leetcode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/srivarshni7/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
