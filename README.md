@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/srivarshni7/leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/srivarshni7/leetcode/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/srivarshni7/leetcode/tree/master/0511-game-play-analysis-i) |
 ## Two Pointers
