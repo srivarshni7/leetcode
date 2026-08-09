@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 | [3271-hash-divided-string](https://github.com/srivarshni7/leetcode/tree/master/3271-hash-divided-string) |
+| [3813-vowel-consonant-score](https://github.com/srivarshni7/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Database
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/srivarshni7/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/srivarshni7/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [3271-hash-divided-string](https://github.com/srivarshni7/leetcode/tree/master/3271-hash-divided-string) |
+| [3813-vowel-consonant-score](https://github.com/srivarshni7/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
 ## Linked List
 |  |
