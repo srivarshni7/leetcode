@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srivarshni7/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/srivarshni7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/srivarshni7/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/srivarshni7/leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/srivarshni7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/srivarshni7/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/srivarshni7/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Geometry
 |  |
