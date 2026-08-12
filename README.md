@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/srivarshni7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/srivarshni7/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivarshni7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/srivarshni7/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/srivarshni7/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2678-number-of-senior-citizens](https://github.com/srivarshni7/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2785-sort-vowels-in-a-string](https://github.com/srivarshni7/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3271-hash-divided-string](https://github.com/srivarshni7/leetcode/tree/master/3271-hash-divided-string) |
 | [3813-vowel-consonant-score](https://github.com/srivarshni7/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
