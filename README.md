@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/srivarshni7/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/srivarshni7/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/srivarshni7/leetcode/tree/master/0706-design-hashmap) |
 | [1436-destination-city](https://github.com/srivarshni7/leetcode/tree/master/1436-destination-city) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/srivarshni7/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/srivarshni7/leetcode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
