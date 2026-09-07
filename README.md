@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/srivarshni7/leetcode/tree/master/2974-minimum-number-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/srivarshni7/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srivarshni7/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/srivarshni7/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/srivarshni7/leetcode/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/srivarshni7/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivarshni7/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/srivarshni7/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/srivarshni7/leetcode/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
