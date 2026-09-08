@@ -5,25 +5,24 @@
  *     ListNode *next;
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}s,\
+  
  * };
  */
 class Solution {
 public:
     ListNode* reverse(ListNode* head)
     {
-        ListNode* prevnode=NULL;
-        ListNode* nextnode=NULL;
-        while(head!=NULL)
+        ListNode* prev=NULL;
+        ListNode* curr=head;
+        while(curr!=NULL)
         {
-            nextnode=head->next;
-            head->next=prevnode;
-            prevnode=head;
-            head=nextnode;       
-             }
-
-            return prevnode;
-
+            ListNode* temp=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=temp;
+        }
+        return prev;
     }
     int pairSum(ListNode* head) {
         ListNode* slow=head;
