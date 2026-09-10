@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/srivarshni7/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/srivarshni7/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/srivarshni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/srivarshni7/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivarshni7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srivarshni7/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/srivarshni7/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/srivarshni7/leetcode/tree/master/0733-flood-fill) |
 | [1572-matrix-diagonal-sum](https://github.com/srivarshni7/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/srivarshni7/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/srivarshni7/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/srivarshni7/leetcode/tree/master/0733-flood-fill) |
 ## Graph Theory
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/srivarshni7/leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/srivarshni7/leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
