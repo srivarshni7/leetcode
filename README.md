@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/srivarshni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/srivarshni7/leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivarshni7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/srivarshni7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/srivarshni7/leetcode/tree/master/0260-single-number-iii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/srivarshni7/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srivarshni7/leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/srivarshni7/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/srivarshni7/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/srivarshni7/leetcode/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
@@ -285,10 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/srivarshni7/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/srivarshni7/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
