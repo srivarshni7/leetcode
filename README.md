@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/srivarshni7/leetcode/tree/master/0877-stone-game) |
 | [0929-unique-email-addresses](https://github.com/srivarshni7/leetcode/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/srivarshni7/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivarshni7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1436-destination-city](https://github.com/srivarshni7/leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/srivarshni7/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/srivarshni7/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/srivarshni7/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/srivarshni7/leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/srivarshni7/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/srivarshni7/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/srivarshni7/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/srivarshni7/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/srivarshni7/leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
