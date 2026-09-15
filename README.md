@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/srivarshni7/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/srivarshni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/srivarshni7/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivarshni7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0706-design-hashmap](https://github.com/srivarshni7/leetcode/tree/master/0706-design-hashmap) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/srivarshni7/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/srivarshni7/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/srivarshni7/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/srivarshni7/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/srivarshni7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/srivarshni7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/srivarshni7/leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0706-design-hashmap](https://github.com/srivarshni7/leetcode/tree/master/0706-design-hashmap) |
 | [0817-linked-list-components](https://github.com/srivarshni7/leetcode/tree/master/0817-linked-list-components) |
 | [0929-unique-email-addresses](https://github.com/srivarshni7/leetcode/tree/master/0929-unique-email-addresses) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/srivarshni7/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Quickselect
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/srivarshni7/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivarshni7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivarshni7/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/srivarshni7/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivarshni7/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
