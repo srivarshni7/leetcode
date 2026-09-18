@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/srivarshni7/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/srivarshni7/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/srivarshni7/leetcode/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/srivarshni7/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/srivarshni7/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/srivarshni7/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Recursion
 |  |
 | ------- |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srivarshni7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/srivarshni7/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
