@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/srivarshni7/leetcode/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/srivarshni7/leetcode/tree/master/0929-unique-email-addresses) |
+| [1021-remove-outermost-parentheses](https://github.com/srivarshni7/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/srivarshni7/leetcode/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/srivarshni7/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/srivarshni7/leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/srivarshni7/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/srivarshni7/leetcode/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/srivarshni7/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/srivarshni7/leetcode/tree/master/0767-reorganize-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/srivarshni7/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
