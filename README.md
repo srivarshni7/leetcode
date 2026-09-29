@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srivarshni7/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/srivarshni7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/srivarshni7/leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/srivarshni7/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/srivarshni7/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/srivarshni7/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/srivarshni7/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/srivarshni7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/srivarshni7/leetcode/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/srivarshni7/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/srivarshni7/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/srivarshni7/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/srivarshni7/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/srivarshni7/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/srivarshni7/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
