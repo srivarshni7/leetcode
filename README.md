@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/srivarshni7/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivarshni7/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/srivarshni7/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/srivarshni7/leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/srivarshni7/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/srivarshni7/leetcode/tree/master/0733-flood-fill) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srivarshni7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/srivarshni7/leetcode/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/srivarshni7/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/srivarshni7/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/srivarshni7/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/srivarshni7/leetcode/tree/master/0547-number-of-provinces) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srivarshni7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivarshni7/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivarshni7/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/srivarshni7/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/srivarshni7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srivarshni7/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srivarshni7/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/srivarshni7/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Ternary Search
 |  |
 | ------- |
