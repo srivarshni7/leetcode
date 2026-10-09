@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/srivarshni7/leetcode/tree/master/0929-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/srivarshni7/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/srivarshni7/leetcode/tree/master/1436-destination-city) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/srivarshni7/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/srivarshni7/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/srivarshni7/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivarshni7/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/srivarshni7/leetcode/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/srivarshni7/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/srivarshni7/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -446,10 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/srivarshni7/leetcode/tree/master/0767-reorganize-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/srivarshni7/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/srivarshni7/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/srivarshni7/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting Sort
 |  |
 | ------- |
