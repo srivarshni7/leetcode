@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/srivarshni7/leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srivarshni7/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/srivarshni7/leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [2399-check-distances-between-same-letters](https://github.com/srivarshni7/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2553-separate-the-digits-in-an-array](https://github.com/srivarshni7/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/srivarshni7/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/srivarshni7/leetcode/tree/master/1436-destination-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/srivarshni7/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivarshni7/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2399-check-distances-between-same-letters](https://github.com/srivarshni7/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivarshni7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srivarshni7/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3941-password-strength](https://github.com/srivarshni7/leetcode/tree/master/3941-password-strength) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/srivarshni7/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/srivarshni7/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srivarshni7/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2399-check-distances-between-same-letters](https://github.com/srivarshni7/leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2678-number-of-senior-citizens](https://github.com/srivarshni7/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/srivarshni7/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3271-hash-divided-string](https://github.com/srivarshni7/leetcode/tree/master/3271-hash-divided-string) |
