@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/srivarshni7/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/srivarshni7/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0817-linked-list-components](https://github.com/srivarshni7/leetcode/tree/master/0817-linked-list-components) |
+| [0821-shortest-distance-to-a-character](https://github.com/srivarshni7/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srivarshni7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/srivarshni7/leetcode/tree/master/0877-stone-game) |
 | [0929-unique-email-addresses](https://github.com/srivarshni7/leetcode/tree/master/0929-unique-email-addresses) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/srivarshni7/leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/srivarshni7/leetcode/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/srivarshni7/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0821-shortest-distance-to-a-character](https://github.com/srivarshni7/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1768-merge-strings-alternately](https://github.com/srivarshni7/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivarshni7/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/srivarshni7/leetcode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/srivarshni7/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0767-reorganize-string](https://github.com/srivarshni7/leetcode/tree/master/0767-reorganize-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/srivarshni7/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/srivarshni7/leetcode/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/srivarshni7/leetcode/tree/master/0929-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/srivarshni7/leetcode/tree/master/1021-remove-outermost-parentheses) |
